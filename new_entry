@@ -1,0 +1,3 @@
+# source this to run it
+date >> log
+date "+DATE: %Y%m%d" >> log
