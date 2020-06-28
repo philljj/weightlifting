@@ -495,3 +495,21 @@ P:     160 lbs 2,2
 P&PP:  170 lbs 1,2
 PD:    ~       10,10
 FK:    ~       20,20
+
+Fri Jun 26 11:11:51 CDT 2020
+DATE: 20200626
+HCURL:   5 lbs 10,10,10
+RCURL:   5 lbs 10,10,10
+
+Sat Jun 27 13:08:00 CDT 2020
+DATE: 20200627
+FS:    205 lbs 1
+FS:    225 lbs 1
+FS:    235 lbs fail
+BS:    235 lbs 5
+P:     152 lbs 5
+HS:    145 lbs 2
+HS:    150 lbs 2
+HS:    155 lbs 2,2,2
+BP:    165 lbs 6,6
+
