@@ -645,3 +645,35 @@ DL:    285 lbs 2,2
 PD:    ~       10,10
 FK:    ~       20,20
 
+Tue Jul 28 10:48:23 CDT 2020
+DATE: 20200728
+BS:    230 lbs 5,5,5
+P:     151 lbs 5,5,5
+BP:    180 lbs 5
+SPULL: 215 lbs 5
+CPULL: 275 lbs 5
+
+Thu Jul 30 21:44:55 CDT 2020
+DATE: 20200730
+FS:    175 lbs 1
+FS:    210 lbs 1
+BS:    245 lbs 2,2,2
+P:     164 lbs 2,2,2
+DL:    255 lbs 1
+DL:    285 lbs 2,2
+PD:    ~       10,10
+FK:    ~       20
+
+Sat Aug  1 22:34:14 CDT 2020
+DATE: 20200801
+FS:    205 lbs 1
+FS:    210 lbs 1
+FS:    225 lbs 1,1
+BS:    235 lbs 5
+P:     153 lbs 4
+PJ:    165 lbs 1
+PJ:    175 lbs 2,2
+DL:    275 lbs 1
+DL:    285 lbs 1
+SDL:   285 lbs 1
+
