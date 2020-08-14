@@ -695,10 +695,36 @@ FS:    175 lbs 1
 FS:    210 lbs 1
 BS:    250 lbs 2,2,2
 P:     165 lbs 2,2,2
-P:     165 lbs 2,2,2
 P&PJ:  175 lbs 2
 PJ:    180 lbs 2
 DL:    295 lbs 2,2
+PD:    ~       10,10
+FK:    ~       20,20
+
+Sat Aug  8 10:34:04 CDT 2020
+DATE: 20200808
+FS:    210 lbs 1
+FS:    230 lbs 1
+BS:    240 lbs 4
+P:     155 lbs 4
+HS:    135 lbs 2,2,2,2
+BP:    170 lbs 5,5,5
+
+Tue Aug 11 10:47:21 CDT 2020
+DATE: 20200811
+BS:    235 lbs 4,4,4
+P:     151 lbs 4,4,4
+BP:    180 lbs 5
+SPULL: 215 lbs 5
+CPULL: 285 lbs 5
+
+Thu Aug 13 22:01:38 CDT 2020
+DATE: 20200813
+BS:    250 lbs 2,2
+P:     165 lbs 2,1,2,1
+PJ:    175 lbs 2
+PJ:    180 lbs 2
+DL:    305 lbs 2,2
 PD:    ~       10,10
 FK:    ~       20,20
 
