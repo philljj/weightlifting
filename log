@@ -2,7 +2,7 @@ Tue Feb 4 11:06:09 CST 2020
 DATE:  20200204
 BS:    240 lbs 3,3,3
 PRESS: 147 lbs 5,5,5
-SDL:   275 lbs 4,1,2 
+SDL:   275 lbs 4,1,2
 
 Thu Feb  6 11:02:48 CST 2020
 DATE: 20200206
@@ -41,7 +41,7 @@ DATE: 20200220
 BS:    205 lbs 3,3
 PRESS: 160 lbs 1,2,2
 SRDL:  175 lbs 5,3,2
-PD:    ~       
+PD:    ~
 
 Sat Feb 22 08:59:33 CST 2020
 DATE: 20200222
@@ -79,11 +79,11 @@ DATE: 20200305
 BS:    235 lbs 2,2,2
 PRESS: 162 lbs 2,2,2
 SRDL:  195 lbs
-PD:    ~      
+PD:    ~
 
 Sat Mar  7 10:01:46 CST 2020
 DATE: 20200307
-BS:    235 lbs 5 
+BS:    235 lbs 5
 PRESS: 152 lbs 5
 MS:    135 lbs 2,1,2,2,2,2
 
@@ -151,7 +151,7 @@ BS:    255 lbs 2,2
 PRESS: 166 lbs 2,2
 CP:    175 lbs 1,1
 SRDL:  175 lbs 1,
-PD:    ~      
+PD:    ~
 
 Sat Mar 28 15:43:51 CDT 2020
 DATE: 20200328
@@ -336,7 +336,7 @@ CPULL: 225 lbs 2,1,1
 CP:    172 lbs 2,2,2
 PP:    186 lbs 2
 SRDL:  195 lbs
-PD:    ~      
+PD:    ~
 
 Sat May 16 07:48:27 CDT 2020
 DATE: 20200516
@@ -821,7 +821,7 @@ P:     152 lbs 4,4,4
 BP:    180 lbs 6
 SPULL: 245 lbs 5
 CPULL: 295 lbs 5
-FK:    ~      
+FK:    ~
 RC     47  lbs 10
 NOTE:          HOT
 
@@ -835,4 +835,74 @@ DL:    295 lbs 2,2
 PD:    ~       10,10
 FK:    ~       20,20
 NOTE:          Tired weekend driving.
+
+Sat Sep 12 15:53:36 CDT 2020
+DATE: 20200912
+BS:    245 lbs 5,
+FS:    205 lbs 1
+FS:    225 lbs 1
+P:     157 lbs 5
+CP:    167 lbs 1
+CP:    177 lbs 1
+BP:    175 lbs 5,5,6
+RC     50  lbs 7,7,8
+
+Tue Sep 15 10:44:55 CDT 2020
+DATE: 20200915
+BS:    240 lbs 4,4,4
+CP:    153 lbs 4
+P:     153 lbs 4
+CP:    153 lbs 4
+BP:    182 lbs 6
+SPULL: 225 lbs 5
+CPULL: 275 lbs 5,2
+SPULL: 275 lbs 1
+FK:    ~       20
+CURLS  45  lbs 6,6,6
+RC     52  lbs 7
+
+Thu Sep 17 11:08:36 CDT 2020
+DATE: 20200917
+BS:    255 lbs 2,2,2
+P:     167 lbs 2,2
+PJ:    177 lbs 2
+PJ:    187 lbs 2
+DL:    295 lbs 2,2
+PD:    ~       10,10
+FK:    ~       20,20
+
+Sat Sep 19 16:13:55 CDT 2020
+DATE: 20200919
+BS:    235 lbs 4
+BS:    245 lbs 1
+BS:    255 lbs 1
+CP:    158 lbs 4 (tried 5)
+CP:    168 lbs 1
+CP:    178 lbs 1
+BP:    177 lbs 5,5,5
+HS:    115 lbs 2
+HS:    135 lbs 2
+HS:    145 lbs 2
+HS:    160 lbs 1 (tried 2)
+RC     50  lbs 7,7,7
+NOTE:          Back to ATG squats. Squats were very good form.
+
+Tue Sep 22 11:38:25 CDT 2020
+DATE: 20200922
+BS:    225 lbs 4,4,4
+P:     153 lbs 4,4,4
+BP:    184 lbs 5
+SPULL: 225 lbs 5,5
+CPULL: 275 lbs 5
+FK:    ~       20
+CURLS  45  lbs 5,5,5
+RC     45  lbs 7,7
+
+Thu Sep 24 15:20:22 CDT 2020
+DATE: 20200924
+BS:    245 lbs 2,2,2
+P:     167 lbs 2,2,2
+DL:    295 lbs 2,2
+PD:    ~       10,10
+FK:    ~       20,20
 
