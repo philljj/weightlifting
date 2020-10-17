@@ -901,7 +901,7 @@ RC     45  lbs 7,7
 Thu Sep 24 15:20:22 CDT 2020
 DATE: 20200924
 BS:    245 lbs 2,2,2
-P:     167 lbs 2,2,2
+P:     168 lbs 2,2,2
 DL:    295 lbs 2,2
 PD:    ~       10,10
 FK:    ~       20,20
@@ -928,4 +928,68 @@ BP:    185 lbs 5
 SPULL: 225 lbs 5
 CPULL: 275 lbs 5
 FK:    ~       20,20
+
+Thu Oct  1 21:23:29 CDT 2020
+DATE: 20201001
+BS:    240 lbs 2,2
+P:     168 lbs 2,2
+DL:    295 lbs 2,2
+PD:    ~       10
+FK:    ~      
+
+Sat Oct  3 13:29:21 CDT 2020
+DATE: 20201003
+BS:    235 lbs 4
+BS:    245 lbs 1,1
+BS:    255 lbs 1
+BS:    265 lbs f
+P:     160 lbs 4
+P:     170 lbs 1
+P:     175 lbs 1
+P&PJ:  180 lbs 1&2
+P:     183 lbs f
+SDL:   245 lbs 1
+SDL:   265 lbs 1
+BP:    178 lbs 5,5,5
+
+Tue Oct  6 15:32:27 CDT 2020
+DATE: 20201006
+BS:    230 lbs 4,4,4
+P:     154 lbs 4,4,4
+BP:    187 lbs 5
+SPULL: 230 lbs 6
+CPULL: 280 lbs 5
+
+Thu Oct  8 13:13:22 CDT 2020
+DATE: 20201008
+BS:    245 lbs 2,2
+P:     169 lbs 2,2
+DL:    300 lbs 1,2
+PD:    ~       10,10
+FK:    ~       20
+
+Fri: went to the zoo, walked 6.5 miles
+Sat: skipped
+
+Tue Oct 13 14:53:19 CDT 2020
+DATE: 20201013
+BS:    230 lbs 4,4,4
+P:     154 lbs 4,4,4
+BP:    187 lbs 5
+SPULL: 230 lbs 5
+CPULL: 280 lbs
+
+Thu Oct 15 21:32:56 CDT 2020
+DATE: 20201015
+BS:    245 lbs 2,2
+P:     169 lbs 2,2
+DL:    300 lbs 2,2
+PD:    ~       10,10
+FK:    ~      
+
+Sat Oct 17 14:53:06 CDT 2020
+DATE: 20201017
+BS:    235 lbs 4
+P:     160 lbs 4
+BP:    178 lbs 5,5,5
 
