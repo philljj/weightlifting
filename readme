@@ -10,8 +10,9 @@ BS:         back squat
 FS:         front squat
 PRESS:      strict press from rack
 P:          strict press from rack
-SDL:        snatch grip deadlift
+SDL:        snatch grip deadlift, with higher shoulders
 DL:         normal deadlift
+CDL:        clean grip deadlift, with higher shoulders
 CP:         clean from floor, and strict press for N reps
 PP:         push press
 PJ:         push jerk
@@ -25,4 +26,5 @@ SRDL:       snatch grip Romanian deadlift
 HCURL:      hammer curl
 RCURL:      reverse curl
 FK:         flutter kick (slow, high leg variation that is lumbar safe)
-LR:         Lu raises
+LR:         Lu raises (variation on lateral shoulder raise)
+HLR:        hanging leg raises
