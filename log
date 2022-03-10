@@ -3408,6 +3408,8 @@ SRDL: 185 lbs 8,10
 PU:  ~        5,4,4
 PD:  ~        skip
 
+Sat skipped
+
 Mon Feb 28 22:31:56 CST 2022
 DATE: 20220228
 BS:  225 lbs 2,2
@@ -3426,12 +3428,61 @@ CP:    145 lbs 4
 CP:    162 lbs 4,4&2pj,3f
 CandP: 162 lbs 2f
 P :    162 lbs 4
-BP:    185 lbs
-SDL:   255 lbs
-HROW:  ~      
-HLR:   ~      
-LR:     10 lbs
+BP:    185 lbs 6 (good)
+SDL:   265 lbs 4,5
+HLR:   ~       12,12,12
 note: CP a little rough. Maybe back off and do normal more
 strict presses without crappy clean.
 
+Thu Mar  3 19:44:03 CST 2022
+DATE: 20220303
+BS:   225 lbs 2,2
+BS:   245 lbs 2
+BS:   280 lbs 2,
+BNP:  135 lbs 2
+BNP:  145 lbs 2
+BNP:  155 lbs 2
+CP:   145 lbs 2
+CP:   155 lbs 2
+CP:   170 lbs 3,2&2pj
+CP:   172 lbs 2
+P:    172 lbs 2
+CJ:   185 lbs 1,4
+SRDL: 185 lbs 8,8
+PU:  ~        4,4,4
+
+Sat skipped
+
+Sun
+daily min
+BNP:  135 lbs 3
+BS:   225 lbs 2,2
+BNP:  135 lbs 4
+CP:   135 lbs 3
+P:    135 lbs 2
+CROW:  45 lbs 10,10,10
+HLR:    ~     10,10,10
+
+Mon
+daily min
+BS:   225 lbs 2,2
+CP:   135 lbs 2,2,2
+P:    135 lbs 2
+CROW:  45 lbs 7,7,7
+HLR:    ~     7,7,7
+
+Tue Mar  8 19:20:35 CST 2022
+DATE: 20220308
+BS:    225 lbs 4
+BS:    250 lbs 4,4,4
+BNP:   135 lbs 3
+CP:    135 lbs 4
+CP:    145 lbs 4
+CP:    162 lbs 4,4&2pj,4
+P :    162 lbs 4
+BP:    185 lbs 5
+SDL:   265 lbs 4
+HLR:   ~       12,12,13 
+CROW:  45 lbs  10,10,10
+note: tired
 
