@@ -5481,3 +5481,23 @@ MCP:     128 lbs 4,4,4,4
 FSTHSTR: 128 lbs 4,4,4
 platerow  35 lbs 5,5,5
 
+Thu Jun  1 13:27:49 CDT 2023
+DATE: 20230601
+MCP:     185 lbs f,f
+SPULL:   185 lbs 2,2,2,2
+MCPP:    185 lbs 2
+CU:        ~     2,2,2 (all 4 point pause)
+MCP:     138 lbs 2&1pp,2&1pp,2&1pp,
+FSTHSTR: 138 lbs 2,2,2
+rrows    115 lbs 5,
+
+Sat Jun  3 15:42:43 CDT 2023
+DATE: 20230603
+RROW:    115 lbs 5,5,5
+MS:      115 lbs 1
+SPULL:   205 lbs 2,2,2
+CP:      115 lbs 4,4
+CP:      130 lbs 4&1pp,4&1pp
+FSTHSTR: 130 lbs 4,3,3,3
+CU:        ~     4,3,3,3
+
