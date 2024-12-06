@@ -1,3 +1,2 @@
 # source this to run it
-date >> log
-date "+DATE: %Y%m%d" >> log
+date "+%a %b %e %Y" >> log
