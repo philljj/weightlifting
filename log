@@ -9637,7 +9637,7 @@ HCP:       152 lbs 1cl&[2,2,2]p&6bs&1bnpp, 1cl&[4,2]p&6bs&1bnpp
 1hhang:     ~     skip s
 PU:         ~     skip  (tempo slow)
 platerows  45 lbs  skip
-JURLS      45 lbs  8,8
+JCURLS     45 lbs  8,8
 
 Thu Oct  8 2026
 pronators:    35 lbs 12,12 (wider range of motion)
@@ -9665,5 +9665,15 @@ HCP:       155 lbs 1cl&[2,2]p&4bs&1bnpp, 1cl&[2,2,2]p&6bs&1bnpp,
 1hhang:     ~     22s
 PU:         ~     3,3 (tempo slow)
 platerows  45 lbs 12 (burnout immediately after last PU)
-JURLS      55 lbs 12
+JCURLS     55 lbs 12
+
+Thu Oct 15 2026
+pronators:    40 lbs 10w,10w
+risers:       40 lbs 12,16
+
+Fri Oct 16 2026
+P:        175 lbs 2 (done cold)
+SPULL:    175 lbs 6,6,6 (stomach to chest pull)
+HCP:      175 lbs 1cl&[2,1]p&3bs&1bnpp
+sGM:       75 lbs 6&6snpress, 6&12snpress (seated snpress after seated GM)
 
